@@ -1,0 +1,7 @@
+*.hcl
+.terraform
+*treinamento-concrete-key
+*treinamento-concrete-key.pub
+*.tfstate
+*.backup
+*.DS_Store
